@@ -1,2 +1,2 @@
-# odin-recipies
+# odin-recipes
 HTML Project from The Odin Project Web Course
