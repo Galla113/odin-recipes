@@ -1,2 +1,3 @@
 # odin-recipes
-HTML Project from The Odin Project Web Course
+Project by learning from The Odin Project Web Course.
+HTML & CSS applied.
