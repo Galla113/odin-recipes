@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: darkgrey;
+}
+
+#title-recipes{
+  width: 500px;
+  margin: 20px auto 30px auto;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+  outline: black 2px solid;
+  border-radius: 10px;
+}
+
+.list{
+  width: 1000px;
+  margin: auto;
+  list-style-type: none;
+  font-size: 25px;
+  padding: 0;
+}
+
+.list .item-list{
+  display: inline-block;
+  margin: 20px 12%;
+}
+
+.item-list a {
+  color: white;
+  font-weight: bolder;
+  text-decoration: none;
+}
